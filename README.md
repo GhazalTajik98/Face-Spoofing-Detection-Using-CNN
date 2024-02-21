@@ -31,7 +31,7 @@ In this research, the problem of forged faces detection is treated as a binary c
 
 The **Replay-Mobile** Database for face spoofing consists of 1190 video clips of photo and video attack attempts to 40 clients, under different lighting conditions. These videos were recorded with current devices from the market -- an iPad Mini2 (running iOS) and a LG-G4 smartphone (running Android). 
 
-<img src="dataset_samples/REPLAY_MOBILE/Real/augmented_devel_0000_3236.jpg" alt="Replay-Mobile real image sample" width="400"> <img src="dataset_samples/REPLAY_MOBILE/Attack/devel_0000_2023.jpg" alt="Replay-Mobile fake image sample" width="300">
+<img src="dataset_samples/REPLAY_MOBILE/Real/augmented_devel_0000_3236.jpg" alt="Replay-Mobile real image sample" width="400"> <img src="dataset_samples/REPLAY_MOBILE/Attack/frame_0210_537.jpg" alt="Replay-Mobile fake image sample" width="300">
 
 ### Figures
 <img src="result_figures/accuracy.jpg" alt="Accuracy" width="400"> <img src="result_figures/loss.jpg" alt="Loss" width="400">
