@@ -26,11 +26,12 @@ In this research, the problem of forged faces detection is treated as a binary c
 ### Dataset
 **CASIA SURF** is a dataset for face anti-spoofing in terms of both subjects and modalities. Specifically, it consists of subjects with videos and each sample has modalities (i.e., RGB, Depth and IR).
 
-![Casia real image sample](dataset_samples/CASIA_SURF/Real/31.jpg) ![Casia fake image sample](dataset_samples/CASIA_SURF/Attack/121.jpg)  
+<img src="dataset_samples/CASIA_SURF/Real/31.jpg" alt="Casia real image sample" width="400"> <img src="dataset_samples/CASIA_SURF/Attack/121.jpg" alt="Casia fake image sample" width="400">
+ 
 
 The **Replay-Mobile** Database for face spoofing consists of 1190 video clips of photo and video attack attempts to 40 clients, under different lighting conditions. These videos were recorded with current devices from the market -- an iPad Mini2 (running iOS) and a LG-G4 smartphone (running Android). 
 
-![Replay-Mobile real image sample](dataset_samples/REPLAY_MOBILE/Real/augmented_devel_0000_3236.jpg) ![Replay-Mobile fake image sample](dataset_samples/REPLAY_MOBILE/Attack/devel_0000_2023.jpg)  
+<img src="dataset_samples/REPLAY_MOBILE/Real/augmented_devel_0000_3236.jpg" alt="Replay-Mobile real image sample" width="400"> <img src="dataset_samples/REPLAY_MOBILE/Attack/devel_0000_2023.jpg" alt="Replay-Mobile fake image sample" width="400">
 
 ### Figures
-![Accuracy](result_figures/accuracy.jpg) ![Loss](result_figures/loss.jpg)
+<img src="result_figures/accuracy.jpg" alt="Accuracy" width="400"> <img src="result_figures/loss.jpg" alt="Loss" width="400">
